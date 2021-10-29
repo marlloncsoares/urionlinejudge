@@ -13,4 +13,3 @@ O URI permite a utilização de diversas linguagens, a seguintes linguagens est�
 - JavaScript;
 - Python;
 - Php.
-
