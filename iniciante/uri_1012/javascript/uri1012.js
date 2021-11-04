@@ -1,5 +1,5 @@
 const input = require('fs').readFileSync('stdin', 'utf8');
-const values = input.split('\n');
+const values = input.split(' ');
 
 let [valueA, valueB, valueC] = values;
 
