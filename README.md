@@ -23,6 +23,6 @@ Ao percorrer as soluções encontradas neste repositório, você encontrará có
 - Algoritmos de estrutura de controle
 - Algoritmos de estrutura de repetição
 - Algoritmos de ordenação
-- Leitura de arquivos
+- Comandos para leitura de arquivos
 - Comandos de entrada e saída de dados
 - Comandos em SQL para resolver problemas de Banco de Dados
